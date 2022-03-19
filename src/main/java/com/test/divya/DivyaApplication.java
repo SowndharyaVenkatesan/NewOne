@@ -9,6 +9,7 @@ public class DivyaApplication {
 	public static void main(String[] args) {
 		System.out.println("Tests");
 		System.out.println("branch1");
+		System.out.println("Masters");
 		SpringApplication.run(DivyaApplication.class, args);
 	}
 
