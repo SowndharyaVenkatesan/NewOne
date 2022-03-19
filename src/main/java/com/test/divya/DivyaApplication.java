@@ -13,6 +13,7 @@ public class DivyaApplication {
 		System.out.println("Master 2");
 		System.out.println("Master 3");
 		System.out.println("Master 4");
+		System.out.println("Branch 2");
 		SpringApplication.run(DivyaApplication.class, args);
 	}
 
