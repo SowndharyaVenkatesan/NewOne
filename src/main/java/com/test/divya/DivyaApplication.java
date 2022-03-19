@@ -17,6 +17,7 @@ public class DivyaApplication {
 		System.out.println("Branch 2");
 		SpringApplication.run(DivyaApplication.class, args);
 		System.out.println("Branch 3");
+		System.out.println("Branch tests");
 	}
 
 }
