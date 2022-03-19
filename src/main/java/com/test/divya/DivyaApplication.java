@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DivyaApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Tests");
 		SpringApplication.run(DivyaApplication.class, args);
 	}
 
